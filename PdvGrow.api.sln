@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PdvGrow.api", "PdvGrow.api\PdvGrow.api.csproj", "{56840114-C19B-4A1D-A9F4-88DF2CBCCE5B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56840114-C19B-4A1D-A9F4-88DF2CBCCE5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56840114-C19B-4A1D-A9F4-88DF2CBCCE5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56840114-C19B-4A1D-A9F4-88DF2CBCCE5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56840114-C19B-4A1D-A9F4-88DF2CBCCE5B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3146A068-5DFF-41BB-83F2-7275D43C01F5}
+	EndGlobalSection
+EndGlobal
